@@ -1,2 +1,2 @@
-# Portfolio-Builder1
-this is an assignment to help analyse Palmer’s Penguins built-in dataset and show the output in webpage
+# Exploring Titanic Survival
+this is a repo to help analyse Titanic dataset from Kaggle 
